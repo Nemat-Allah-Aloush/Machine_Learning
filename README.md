@@ -8,7 +8,7 @@ The four different trained classifiers are:
 2. Deep decision tree
 3. Random forest on small trees
 4. Random forest on deep trees
-Evaluating each model individualy was done by calculating some metrics (precision;recall; accuracy; F1-score; log-loss;) and by ploting precision-recall 
+* Evaluating each model individualy was done by calculating some metrics (precision;recall; accuracy; F1-score; log-loss;) and by ploting precision-recall 
 and ROC curves for each model.
 * The second task was to train a classifier that avoids Type II (False Negative) errors
 and calculate different metrics to evaluate it. By avoiding Type II errors, it means that the recall for that algorithm should be greater than 0.95
