@@ -4,10 +4,10 @@ Tasks for Machine Learning Techinques Course in ITMO University.
 #### 1. Classifiers
 * The first task was to train, test and evaluate four different models.
 The four different trained classifiers are:
-1- Small decision tree
-2- Deep decision tree
-3- Random forest on small trees
-4- Random forest on deep trees
+1. Small decision tree
+2. Deep decision tree
+3. Random forest on small trees
+4. Random forest on deep trees
 Evaluating each model individualy was done by calculating some metrics (precision;recall; accuracy; F1-score; log-loss;) and by ploting precision-recall 
 and ROC curves for each model.
 * The second task was to train a classifier that avoids Type II (False Negative) errors
