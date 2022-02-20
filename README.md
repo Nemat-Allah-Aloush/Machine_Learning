@@ -15,7 +15,16 @@ and calculate different metrics to evaluate it. By avoiding Type II errors, it m
 
 https://github.com/Nemat-Allah-Aloush/Machine_Learning_Techinques/blob/main/Task_1.ipynb
 
-#### 2.
+#### 2. Optimization algorithms 
+* In this file two optimization algorithms were implemented:
+1.  gradient descent (GD) algorithm 
+2.  Adam's optimization algorithm 
+for a function of two variables f(x,y).
+* The two algorithms were applied on an arbitrary function and implement the search for its minimum.
+* Finally the process of finding an extremum was illustrated in the form of a graph.
+
+https://github.com/Nemat-Allah-Aloush/Machine_Learning_Techinques/blob/main/Task_2_Optimization.ipynb
+
 
 #### 3.
 
@@ -28,4 +37,7 @@ Then trying to name each chapter according to the identified tokens?
 
 https://github.com/Nemat-Allah-Aloush/Machine_Learning_Techinques/blob/main/Task_4_NLP.ipynb
 
-#### 5.
+#### 5. CNN and Transfer Learning
+The aim of this file is to distinguish dogs from cats first by Convolutional Neural Network and then by transfer Learning model using pre-trained VGG16-model weights from keras application.
+
+https://github.com/Nemat-Allah-Aloush/Machine_Learning_Techinques/blob/main/Task_5_CNN_and_Transfer_Learning.ipynb
