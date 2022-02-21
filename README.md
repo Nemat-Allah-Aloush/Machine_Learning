@@ -26,7 +26,11 @@ for a function of two variables f(x,y).
 https://github.com/Nemat-Allah-Aloush/Machine_Learning_Techinques/blob/main/Task_2_Optimization.ipynb
 
 
-#### 3.
+#### 3. logistic regression method
+Logistic regression method was implemented through three different optimization algorithms: gradient descent, stochastic gradient descent, and Adam algorithm. The three algorithms were built as modeled and trained for 5 different learning rates. Finally the performance of the three algorithms was compared
+
+https://github.com/Nemat-Allah-Aloush/Machine_Learning_Techinques/blob/main/Task_3.ipynb
+
 
 #### 4. Natural Language Processing
 *	The data analyzed is the story of Alice in Wonderland by Lewis Carroll from Project Gutenberg's website http://www.gutenberg.org/files/11/11-0.txt.
