@@ -1,5 +1,5 @@
 ## Machine_Learning_Techinques
-Tasks for Machine Learning Techinques Course in ITMO University.
+Tasks for Machine Learning Course in ITMO University.
 
 #### 1. Classifiers
 * The first task was to train, test and evaluate four different models.
