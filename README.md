@@ -1,4 +1,4 @@
-## Machine_Learning_Techinques
+## Machine_Learning
 Tasks for Machine Learning Course in ITMO University.
 
 #### 1. Classifiers
