@@ -3,10 +3,10 @@ Tasks for Machine Learning Course in ITMO University.
 
 ### Index
 1. [Classifiers](#classifiers)
-2. [Optimization algorithms](#optimization-algorithms)
-3. [Logistic regression method](#logistic-regression-method)
-4. [Natural Language Processing](#natural-Language-Processing)
-5. [CNN and Transfer Learning](#cnn-and-transfer-learning)
+2. [Optimization algorithms](#optimization_algorithms)
+3. [Logistic regression method](#logistic_regression_method)
+4. [Natural Language Processing](#natural_Language_Processing)
+5. [CNN and Transfer Learning](#cnn_and_transfer_learning)
 
 ---------------------
 
