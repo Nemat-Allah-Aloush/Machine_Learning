@@ -5,8 +5,8 @@ Tasks for Machine Learning Course in ITMO University.
 1. [Classifiers](#classifiers)
 2. [Optimization algorithms](#optimization-algorithms)
 3. [Logistic regression method](#logistic-regression-method)
-4. [Natural Language Processing](#Natural-Language-Processing)
-5. [CNN and Transfer Learning](#CNN-and-Transfer-Learning)
+4. [Natural Language Processing](#natural-Language-Processing)
+5. [CNN and Transfer Learning](#cnn-and-transfer-learning)
 
 ---------------------
 
