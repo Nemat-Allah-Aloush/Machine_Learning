@@ -40,7 +40,7 @@ Logistic regression method was implemented through three different optimization 
 ---------------------
 
 ### [Natural Language Processing](https://github.com/Nemat-Allah-Aloush/Machine_Learning_Techinques/blob/main/Task_4_NLP.ipynb)
-*	The data analyzed is the story of Alice in Wonderland by Lewis Carroll from Project Gutenberg's website http://www.gutenberg.org/files/11/11-0.txt.
+*	The data analyzed is the story of Alice in Wonderland by Lewis Carroll from Project Gutenberg's [website](http://www.gutenberg.org/files/11/11-0.txt).
 *	First of all necessary preprocessing tasks are performed on the text: converting to lower case, removing stop words, numbers / non-alphabetic characters, lemmatization.
 *	The first task is to find Top 10 most important words (excluding the word 'Alice') from each chapter in the, in terms of TF-IDF metric.
 Then trying to name each chapter according to the identified tokens?
